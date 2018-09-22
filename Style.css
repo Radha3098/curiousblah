@@ -1,0 +1,117 @@
+.Intro img
+{
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: auto;
+    border-radius: 50%
+}
+.Intro h1
+{
+	color: yellow;
+	text-align: center;
+}
+.Intro1 h2
+{
+    width: 30%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+    border: 3px solid none;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: #FF5733;
+    font-style:oblique;
+    border-radius: 20%
+}
+.connect {
+	text-align: center;
+    width: 100%;
+    clear: both;
+    height: 30px;
+}
+.connect div {
+	width: 90px;
+	margin: 0 auto;
+}
+.connect img 
+{
+	width: 30px;
+	height:30px;
+	margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+	display: block;
+	float:left;
+}
+.connect p
+{
+	font-size: 20px;
+	text-align: center;
+    margin-top: 40px;
+    margin-left: 280px;
+    margin-right: auto;
+    margin-bottom:auto;
+	color: #870F62;
+}
+.Circ
+{
+	float : left;
+}
+
+.Circle
+{
+   width: 350px;
+   height: 350px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: auto;
+    margin-bottom:auto;
+    border: 10px solid grey;
+    padding: 60px dashed blue;
+    color: white;
+    text-align: center;
+    background-color: #FF5733;
+    font-style:oblique;
+    border-radius: 50%;
+
+}
+
+.Circle1
+{
+   width: 350px;
+   height: 350px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: auto;
+    margin-bottom:auto;
+    border: 10px solid grey;
+    padding: 60px dashed blue;
+    color: white;
+    text-align: center;
+    background-color: #FF5733;
+    font-style:oblique;
+    border-radius: 50%;
+
+}
+.Circle2
+{
+   width: 350px;
+   height: 350px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: auto;
+    margin-bottom:auto;
+    border: 10px solid grey;
+    padding: 60px dashed blue;
+    color: white;
+    text-align: center;
+    background-color: #FF5733;
+    font-style:oblique;
+    border-radius: 50%;
+}
