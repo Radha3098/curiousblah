@@ -1,0 +1,83 @@
+
+.opper h3
+{
+	color: white;
+	margin-left: 100px;
+	margin-top: 40px;
+	word-spacing: 150px;
+	font-style:"Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+}
+
+.Hippo img
+{
+	 margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.Intro img
+{
+
+	
+	display: block;
+	border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width:200px;
+    height:200px;
+
+}
+.Intro h1
+{
+	font-family: "Arial", Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+}
+.Intro1 h2
+{
+    width: 30%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+    border: 3px solid dashed;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-style:oblique;
+    border-radius: 20%
+}
+.connect 
+{
+	text-align: center;
+	color: white;
+    width: 100%;
+    height: 30px;
+}
+.connect div {
+	width: 90px;
+	margin: 0 auto;
+}
+.connect img 
+{
+	width: 30px;
+	height:30px;
+	margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+	display: block;
+	float:left;
+}
+
+.comment_bubble p
+{
+color: white;
+font-size: 20px;
+text-align: center;
+
+
+}
+
